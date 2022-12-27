@@ -1,0 +1,168 @@
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.menu-link{
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #2E2F42;
+}
+
+.contact-mail {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.contact-mail:hover,
+.contact-mail:focus {
+   color: #434455;
+}
+
+.phone-number{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.phone-number:hover,
+.phone-number:focus {
+    color: #434455;
+}
+
+.modal-button {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    
+    color: #FFFFFF; 
+    background-color: #4D5AE5;
+
+}
+
+.modal-button:hover
+.modal-button:focus {
+    background-color: #4D5AE5;
+    color:  #4D5AE5;
+}
+
+.menu-link {
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+
+}
+
+.hero-title{
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+
+/* color: #FFFFFF;  */
+
+}
+
+.futures-subtitle {
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+
+}
+
+.future-text {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+color: #434455;
+
+}
+
+.name-caracter {
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+}
+
+.text-caracter {
+font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #434455;
+
+}
+
+.portfolio-button {
+font-family: 'Roboto';
+font-weight: 600;
+font-size: 16px;
+line-height: 1.5;    
+cursor: pointer;
+
+color: #FFFFFF;
+background-color: #4D5AE5
+}
+
+.portfolio-button:hover
+.portfolio-button:focus {
+   color:  #4D5AE5;
+}
+
+.cards-name {
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+}
+
+.cards-text {
+font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+color: #434455;
+}
